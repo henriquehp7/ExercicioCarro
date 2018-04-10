@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExercicioCarro</string>
+    <string name="camaro">camaro</string>
+    <string name="preco_25000_4_portas_ano_2018_cor_preta">preco 25000, 4 portas, ano 2018, cor preta</string>
+    <string name="preco_30000_cor_cinza_ano_2015_automatico">preco 30000, cor cinza, ano 2015, automatico</string>
+</resources>
